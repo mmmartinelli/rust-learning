@@ -1,3 +1,7 @@
+mod arrays;
+mod enums;
+
 fn main() {
-    println!("Hello, world!");
+    arrays::arrays();
+    enums::enums();
 }
